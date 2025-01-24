@@ -2,7 +2,7 @@
 
 Cameron Custis | cwcustis@my.waketech.edu  
 This account was created for the Spring semester of CTI-110  
-This repository serves to store classword for CTI-110
+This repository serves to store classwork for CTI-110
 # About Me
 ## My Interests  
 I spend my free time writing, watching videos, shows, and movies, and playing games online. Additionally, I'm interested in cars and travel.
